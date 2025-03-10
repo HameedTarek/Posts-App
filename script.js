@@ -721,6 +721,7 @@ function CreatePost(obj) {
     const para = document.createElement('p');
     para.textContent = obj.body;
 
+
     const delBtn = document.createElement('button');
     delBtn.textContent = 'Delete Post';
     delBtn.classList.add('delBtn')

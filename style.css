@@ -18,6 +18,12 @@
     border-radius: 8px;
 }
 
+.post img {
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 5px;
+}
+
 .delBtn{
     background-color: darkred;
     color: white;
